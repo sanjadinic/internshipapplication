@@ -1,1 +1,1 @@
-permalink: /sanjadinic.html
+permalink: /index.html

@@ -1,1 +1,1 @@
-"# internshipapplication" 
+permalink: /sanjadinic.html
